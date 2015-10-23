@@ -1,0 +1,2 @@
+# pynetclass
+Python class
